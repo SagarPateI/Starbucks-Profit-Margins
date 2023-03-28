@@ -5,7 +5,7 @@
 		- Grande
 		- Venti
 - Classic Espresso Drinks
-	- CaffÃ¨ Latte
+	- CaffÃ¨ Latte (1 oz Starbucks® Espresso Roast, 1 cup whole milk, Milk frother, aerator or whisk, Optional sweetener of choice such as homemade Vanilla Syrup (or storebought))
 		- Short 
 			- Nonfat Milk
 			- 2% Milk
@@ -22,7 +22,7 @@
 			- Nonfat Milk
 			- 2% Milk
 			- Soymilk
-	- CaffÃ¨ Mocha (Without Whipped Cream)
+	- CaffÃ¨ Mocha (Without Whipped Cream)(1 oz Starbucks® Espresso Roast ground coffee or 1 Starbucks® by Nespresso® Espresso Roast capsule, 1 cup milk of your choice, 3 Tbsp mocha sauce, Whipped cream, Chocolate shavings (optional))
 		- Short 
 			- Nonfat Milk
 			- 2% Milk
@@ -39,7 +39,7 @@
 			- Nonfat Milk
 			- 2% Milk
 			- Soymilk
-	- Vanilla Latte (Or Other Flavoured Latte)
+	- Vanilla Latte (Or Other Flavoured Latte) (1 Starbucks® Blonde Espresso Roast by Nespresso® capsule, 1 cup milk of your choice, 2 Tbsp homemade Vanilla Syrup (or storebought))
 		- Short 
 			- Nonfat Milk
 			- 2% Milk
@@ -56,12 +56,12 @@
 			- Nonfat Milk
 			- 2% Milk
 			- Soymilk
-	- CaffÃ¨ Americano
+	- CaffÃ¨ Americano (1 1/4 cups hot water, Starbucks® Espresso Roast (or 2 Starbucks® by Nespresso® Espresso Roast capsules))
 		- Short
 		- Tall
 		- Grande
 		- Venti
-	- Cappuccino
+	- Cappuccino (2 oz Starbucks® Espresso Roast coffee, 4 oz whole milk)
 		- Short 
 			- Nonfat Milk
 			- 2% Milk
@@ -78,7 +78,7 @@
 			- Nonfat Milk
 			- 2% Milk
 			- Soymilk
-	- Espresso
+	- Espresso 
 		- Solo
 		- Doppio
 	- Skinny Latte (Any Flavour)
@@ -91,7 +91,7 @@
 		- Venti 
 			- Nonfat Milk
 - Signature Espresso Drinks
-	- Caramel Macchiato
+	- Caramel Macchiato (1 Starbucks® Espresso Roast by Nespresso® capsule​, 3/4 cup milk of choice, 1 Tbsp homemade Vanilla Syrup (or storebought), homemade Caramel Sauce (or storebought) for garnish)
 		- Short 
 			- Nonfat Milk
 			- 2% Milk
@@ -108,7 +108,7 @@
 			- Nonfat Milk
 			- 2% Milk
 			- Soymilk
-- White Chocolate Mocha (Without Whipped Cream)
+- White Chocolate Mocha (Without Whipped Cream) (4 Tbsp white chocolate chips or chopped white chocolate, 1 shot Starbucks® Espresso Roast, 1 cup 2% milk, Whipped cream)
 	- Short 
 		- Nonfat Milk
 		- 2% Milk
@@ -125,7 +125,7 @@
 		- Nonfat Milk
 		- 2% Milk
 		- Soymilk
-- Hot Chocolate (Without Whipped Cream)
+- Hot Chocolate (Without Whipped Cream) (Keurig® brewer, Starbucks® Classic Hot Cocoa K-Cup® pod, Whipped cream )
 	- Short 
 		- Nonfat Milk
 		- 2% Milk
@@ -142,7 +142,7 @@
 		- Nonfat Milk
 		- 2% Milk
 		- Soymilk
-- Caramel Apple Spice (Without Whipped Cream)
+- Caramel Apple Spice (Without Whipped Cream) 
 	- Short
 	- Tall
 	- Grande
