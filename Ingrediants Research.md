@@ -5,52 +5,123 @@
 - Signature Espresso Drinks
 
 - TazoÂ® Tea Drinks
-
+	- TazoÂ® Tea
+	- TazoÂ® Chai Tea Latte
+	- TazoÂ® Green Tea Latte
+	- TazoÂ® Full-Leaf Tea Latte
+		- Short 
+			- Nonfat Milk
+			- 2% Milk
+			- Soymilk
+		- Tall 
+			- Nonfat Milk
+			- 2% Milk
+			- Soymilk
+		- Grande 
+			- Nonfat Milk
+			- 2% Milk
+			- Soymilk
+		- Venti 
+			- Nonfat Milk
+			- 2% Milk
+			- Soymilk
+	- TazoÂ® Full-Leaf Red Tea Latte (Vanilla Rooibos)
+		- Short 
+			- Nonfat Milk
+			- 2% Milk
+			- Soymilk
+		- Tall 
+			- Nonfat Milk
+			- 2% Milk
+			- Soymilk
+		- Grande 
+			- Nonfat Milk
+			- 2% Milk
+			- Soymilk
+		- Venti 
+			- Nonfat Milk
+			- 2% Milk
+			- Soymilk
 - Shaken Iced Beverages
-
+		- Iced Brewed Coffee (With Classic Syrup)
+			- Tall
+			- Grande
+			- Venti
+	- Iced Brewed Coffee (With Milk & Classic Syrup)
+		- Tall 
+			- Nonfat Milk
+			- 2% Milk
+			- Soymilk
+		- Grande 
+			- Nonfat Milk
+			- 2% Milk
+			- Soymilk
+		- Venti 
+			- Nonfat Milk
+			- 2% Milk
+			- Soymilk
+	- Shaken Iced TazoÂ® Tea (With Classic Syrup)
+		- Tall
+		- Grande
+		- Venti
+	- Shaken Iced TazoÂ® Tea Lemonade (With Classic Syrup)
+		- Tall
+		- Grande
+		- Venti
 - Smoothies
-
+	- Banana Chocolate Smoothie
+		- Grande Nonfat Milk
+		- 2% Milk
+		- Soymilk
+	- Orange Mango Banana Smoothie
+		- Grande Nonfat Milk
+		- 2% Milk
+		- Soymilk
+	- Strawberry Banana Smoothie
+		- Grande Nonfat Milk
+		- 2% Milk
+		- Soymilk
 - FrappuccinoÂ® Blended Coffee
     - Coffee
-Tall Nonfat Milk
-Whole Milk
-Soymilk
-Grande Nonfat Milk
-Whole Milk
-Soymilk
-Venti Nonfat Milk
-Whole Milk
-Soymilk
+		- Tall Nonfat Milk
+		- Whole Milk
+		- Soymilk
+		- Grande Nonfat Milk
+		- Whole Milk
+		- Soymilk
+		- Venti Nonfat Milk
+		- Whole Milk
+		- Soymilk
     - Mocha (Without Whipped Cream)
-Tall Nonfat Milk
-Whole Milk
-Soymilk
-Grande Nonfat Milk
-Whole Milk
-Soymilk
-Venti Nonfat Milk
-Whole Milk
-Soymilk
+		- Tall Nonfat Milk
+		- Whole Milk
+		- Soymilk
+		- Grande Nonfat Milk
+		- Whole Milk
+		- Soymilk
+		- Venti Nonfat Milk
+		- Whole Milk
+		- Soymilk
     - Caramel (Without Whipped Cream)
-Tall Nonfat Milk
-Whole Milk
-Soymilk
-Grande Nonfat Milk
-Whole Milk
-Soymilk
-Venti Nonfat Milk
-Whole Milk
-Soymilk
+		- Tall Nonfat Milk
+		- Whole Milk
+		- Soymilk
+		- Grande Nonfat Milk
+		- Whole Milk
+		- Soymilk
+		- Venti Nonfat Milk
+		- Whole Milk
+		- Soymilk
     - Java Chip (Without Whipped Cream)
-Tall Nonfat Milk
-Whole Milk
-Soymilk
-Grande Nonfat Milk
-Whole Milk
-Soymilk
-Venti Nonfat Milk
-Whole Milk
-Soymilk
+		- Tall Nonfat Milk
+		- Whole Milk
+		- Soymilk
+		- Grande Nonfat Milk
+		- Whole Milk
+		- Soymilk
+		- Venti Nonfat Milk
+		- Whole Milk
+		- Soymilk
 - FrappuccinoÂ® Light Blended Coffee
     - Coffee
         - Tall Nonfat Milk
