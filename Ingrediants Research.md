@@ -1,13 +1,95 @@
 - Coffee
 	- Brewed Coffee
+		- Short
+		- Tall
+		- Grande
+		- Venti
 - Classic Espresso Drinks
 	- CaffÃ¨ Latte
+		- Short 
+			- Nonfat Milk
+			- 2% Milk
+			- Soymilk
+		- Tall 
+			- Nonfat Milk
+			- 2% Milk
+			- Soymilk
+		- Grande 
+			- Nonfat Milk
+			- 2% Milk
+			- Soymilk
+		- Venti 
+			- Nonfat Milk
+			- 2% Milk
+			- Soymilk
 	- CaffÃ¨ Mocha (Without Whipped Cream)
+		- Short 
+			- Nonfat Milk
+			- 2% Milk
+			- Soymilk
+		- Tall 
+			- Nonfat Milk
+			- 2% Milk
+			- Soymilk
+		- Grande 
+			- Nonfat Milk
+			- 2% Milk
+			- Soymilk
+		- Venti 
+			- Nonfat Milk
+			- 2% Milk
+			- Soymilk
 	- Vanilla Latte (Or Other Flavoured Latte)
+		- Short 
+			- Nonfat Milk
+			- 2% Milk
+			- Soymilk
+		- Tall 
+			- Nonfat Milk
+			- 2% Milk
+			- Soymilk
+		- Grande 
+			- Nonfat Milk
+			- 2% Milk
+			- Soymilk
+		- Venti 
+			- Nonfat Milk
+			- 2% Milk
+			- Soymilk
 	- CaffÃ¨ Americano
+		- Short
+		- Tall
+		- Grande
+		- Venti
 	- Cappuccino
+		- Short 
+			- Nonfat Milk
+			- 2% Milk
+			- Soymilk
+		- Tall 
+			- Nonfat Milk
+			- 2% Milk
+			- Soymilk
+		- Grande 
+			- Nonfat Milk
+			- 2% Milk
+			- Soymilk
+		- Venti 
+			- Nonfat Milk
+			- 2% Milk
+			- Soymilk
 	- Espresso
+		- Solo
+		- Doppio
 	- Skinny Latte (Any Flavour)
+		- Short 
+			- Nonfat Milk
+		- Tall 
+			- Nonfat Milk
+		- Grande 
+			- Nonfat Milk
+		- Venti 
+			- Nonfat Milk
 - Signature Espresso Drinks
 	- Caramel Macchiato
 		- Short 
