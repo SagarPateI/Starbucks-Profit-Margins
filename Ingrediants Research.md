@@ -1,13 +1,110 @@
 - Coffee
- 
+	- Brewed Coffee
 - Classic Espresso Drinks
-
+	- CaffÃ¨ Latte
+	- CaffÃ¨ Mocha (Without Whipped Cream)
+	- Vanilla Latte (Or Other Flavoured Latte)
+	- CaffÃ¨ Americano
+	- Cappuccino
+	- Espresso
+	- Skinny Latte (Any Flavour)
 - Signature Espresso Drinks
-
+	- Caramel Macchiato
+		- Short 
+			- Nonfat Milk
+			- 2% Milk
+			- Soymilk
+		- Tall 
+			- Nonfat Milk
+			- 2% Milk
+			- Soymilk
+		- Grande 
+			- Nonfat Milk
+			- 2% Milk
+			- Soymilk
+		- Venti 
+			- Nonfat Milk
+			- 2% Milk
+			- Soymilk
+- White Chocolate Mocha (Without Whipped Cream)
+	- Short 
+		- Nonfat Milk
+		- 2% Milk
+		- Soymilk
+	- Tall 
+		- Nonfat Milk
+		- 2% Milk
+		- Soymilk
+	- Grande 
+		- Nonfat Milk
+		- 2% Milk
+		- Soymilk
+	- Venti 
+		- Nonfat Milk
+		- 2% Milk
+		- Soymilk
+- Hot Chocolate (Without Whipped Cream)
+	- Short 
+		- Nonfat Milk
+		- 2% Milk
+		- Soymilk
+	- Tall 
+		- Nonfat Milk
+		- 2% Milk
+		- Soymilk
+	- Grande 
+		- Nonfat Milk
+		- 2% Milk
+		- Soymilk
+	- Venti 
+		- Nonfat Milk
+		- 2% Milk
+		- Soymilk
+- Caramel Apple Spice (Without Whipped Cream)
+	- Short
+	- Tall
+	- Grande
+	- Venti
 - TazoÂ® Tea Drinks
 	- TazoÂ® Tea
+		- Short
+		- Tall
+		- Grande
+		- Venti
 	- TazoÂ® Chai Tea Latte
+		- Short 
+			- Nonfat Milk
+			- 2% Milk
+			- Soymilk
+		- Tall 
+			- Nonfat Milk
+			- 2% Milk
+			- Soymilk
+		- Grande 
+			- Nonfat Milk
+			- 2% Milk
+			- Soymilk
+		- Venti 
+			- Nonfat Milk
+			- 2% Milk
+			- Soymilk
 	- TazoÂ® Green Tea Latte
+		- Short 
+			- Nonfat Milk
+			- 2% Milk
+			- Soymilk
+		- Tall 
+			- Nonfat Milk
+			- 2% Milk
+			- Soymilk
+		- Grande 
+			- Nonfat Milk
+			- 2% Milk
+			- Soymilk
+		- Venti 
+			- Nonfat Milk
+			- 2% Milk
+			- Soymilk
 	- TazoÂ® Full-Leaf Tea Latte
 		- Short 
 			- Nonfat Milk
